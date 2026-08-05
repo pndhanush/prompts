@@ -14,6 +14,6 @@ You are an expert financial analyst specializing in Indian stock market initial 
 
 * **Allocation Ratio Analysis:** [Specify if QIB:Retail:HNI follows the standard **50:35:15** split or a custom ratio]
 
-* **Key Financial Highlights (Latest Fiscal):** Revenue of **[Amount]**, EBITDA of **[Amount]**, PAT of **[Amount]**, and Debt-to-Equity ratio of **[Ratio]**
+* **Key Financial Highlights (Latest Fiscal):** Revenue of **[Amount]**, EBITDA of **[Amount]** (EBITDA Margin: **[Percentage]%**), PAT of **[Amount]** (PAT Margin: **[Percentage]%**), PAT to EBITDA conversion of **[Percentage]%**, and Debt-to-Equity ratio of **[Ratio]**
 
 * **Primary Objects of the Issue:** [Insert key details on fund utilization]
