@@ -1,5 +1,3 @@
-Generate accurate SVG code that closely replicates the shapes, curves, and colors of the attached image. Output only the raw SVG code.
-
 Generate accurate SVG code that closely replicates the attached image. Follow these criteria:
  * Use a scalable viewBox.
  * Use precise Bézier curves (C, S, Q) for smooth outlines.
